@@ -9,4 +9,4 @@ then
     echo "Voce tem permissão para editar $FILE"
 else
     echo "Você NÃO foi autorizado a editar $FILE"
-fi    
+fi    Eu sou Tryber e...
